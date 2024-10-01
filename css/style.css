@@ -1,0 +1,37 @@
+
+.movement{
+  font-family: 'MovementV';
+  color: blueviolet;
+  font-variation-settings: "SPAC" 110, "wght" 500;
+}
+
+.sixtyhour{
+  font-family: 'sixtyhour';
+  font-variation-settings: "SCAN" 50, "BLED" 50;
+}
+
+h2{
+  font-family: sixtyhour;
+  font-size: 200px;
+  color:blue;
+}
+
+#premier{
+  position: relative;
+  top: 50px;
+ transform: rotate(-10deg);
+ z-index: -1; 
+}
+
+#deuxieme{
+  opacity: 0.7;
+  mix-blend-mode: multiply;
+  position: relative;
+  left: 250px;
+}
+
+ 
+  
+  
+  
+  
